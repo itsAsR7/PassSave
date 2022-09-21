@@ -1,4 +1,4 @@
-# Electron Desktop App
+# Password Manager App
 
 This is a desktop application built on electron
 
