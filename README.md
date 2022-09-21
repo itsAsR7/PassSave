@@ -1,6 +1,6 @@
 # Electron Desktop App
 
-This is a cross platform desktop application built on electron
+This is a desktop application built on electron
 
 ### Version
 1.0.0
@@ -30,14 +30,3 @@ For Windows
 $ npm run package-win
 ```
 
-For Mac
-
-```sh
-$ npm run package-mac
-```
-
-For Linux
-
-```sh
-$ npm run package-linux
-```
